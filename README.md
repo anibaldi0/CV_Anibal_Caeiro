@@ -2,4 +2,5 @@
 
 Repositorio con mi CV actualizado y stack técnico.
 
-### [Descargar CV en PDF](./CV_Anibal_Caeiro.pdf)
+### [DESCARGAR CV EN PDF (Link Directo)](https://raw.githubusercontent.com/anibaldi0/CV_Anibal_Caeiro/main/CV_Anibal_Caeiro.pdf)
+
